@@ -1,0 +1,8 @@
+path: C:/Users/soupy/PycharmProjects/CV_SP25/BDD100K
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: car
+  1: truck
